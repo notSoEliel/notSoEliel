@@ -6,6 +6,8 @@ With the desire of being a future Data Scientist, I'm currently studying a BSc I
 
 ### Skills
 - Python
+- Java
+- Git
 - Bash
 - MS Office
 
