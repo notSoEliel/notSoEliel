@@ -14,7 +14,7 @@ With the desire of being a future Developer, I'm currently studying a BSc Softwa
 ### Goals
 - [x] Start my College Studies
 - [x] Start learning Web Dev
-- [ ] Learn Python and Java Principles
+- [x] Learn Python and Java Principles
 - [ ] Get into Java & Python libraries for Backend Dev
 - [ ] Create my profesional portfolio
 - [ ] Get a nice job :)
