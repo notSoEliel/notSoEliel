@@ -2,7 +2,7 @@
 ## About me
 ### My Learning
 
-With the desire of being a future Data Scientist, I'm currently studying a BSc Information Systems Engineering at Universidad Tecnológica de Panamá (UTP). Also I'm studying at Data Science and AI online School of [Platzi](https://www.Platzi.com). In addition to that, I'm coursing the Google IT Support Professional Certificate at Coursera.
+With the desire of being a future Developer, I'm currently studying a BSc Software Development at Universidad Tecnológica de Panamá (UTP). Also I'm studying at Web Development online School of [Platzi](https://www.Platzi.com). In addition to that, I'm coursing the Google IT Support Professional Certificate at Coursera.
 
 ### Skills
 - Python
@@ -13,8 +13,9 @@ With the desire of being a future Data Scientist, I'm currently studying a BSc I
 
 ### Goals
 - [x] Start my College Studies
-- [x] Start learning Data Science
-- [ ] Start learning AI
+- [x] Start learning Web Dev
+- [ ] Learn Python and Java Principles
+- [ ] Get into Java & Python libraries for Backend Dev
 - [ ] Create my profesional portfolio
 - [ ] Get a nice job :)
 
