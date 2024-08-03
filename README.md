@@ -1,4 +1,4 @@
-# Eliel García - @spuky-bit
+# Eliel García - @notSoEliel
 ## About me
 ### My Learning
 
