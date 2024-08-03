@@ -17,6 +17,7 @@ I'm an enthusiastic developer currently studying Software Development. My journe
 ### Goals
 - [x] Master Python and its libraries for data science and backend development
 - [x] Expand knowledge in web development and cross-platform technologies
+- [ ] Actually use GitHub
 - [ ] Build a comprehensive professional portfolio
 - [ ] Contribute to open-source projects and collaborate with other developers
 - [ ] Secure a role in a dynamic tech environment
