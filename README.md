@@ -1,36 +1,31 @@
 # Eliel García - @notSoEliel
-## About me
-### My Learning
 
-With the desire of being a future Developer, I'm currently studying a BSc Software Development at Universidad Tecnológica de Panamá (UTP). Also I'm studying at Web Development online School of [Platzi](https://www.Platzi.com). In addition to that, I'm coursing the Google IT Support Professional Certificate at Coursera.
+## About Me
+### My Learning Journey
+
+I'm an enthusiastic developer currently studying Software Development. My journey in tech includes a deep dive into Python and data science, complemented by exploring web and cross-platform development with React. I'm passionate about building robust applications and learning new technologies to keep pace with the rapidly evolving tech landscape.
 
 ### Skills
 - Python
-- Java
+- Data Science
+- JavaScript (React, Node.js)
+- TypeScript
+- SQL
 - Git
-- Bash
-- MS Office
+- REST APIs
 
 ### Goals
-- [x] Start my College Studies
-- [x] Start learning Web Dev
-- [x] Learn Python and Java Principles
-- [x] Get into Java & Python libraries for Backend Dev
-- [ ] Create my profesional portfolio
-- [ ] Get a nice job :)
+- [x] Master Python and its libraries for data science and backend development
+- [x] Expand knowledge in web development and cross-platform technologies
+- [ ] Build a comprehensive professional portfolio
+- [ ] Contribute to open-source projects and collaborate with other developers
+- [ ] Secure a role in a dynamic tech environment
 
-
-<!--
-**spuky-bit/spuky-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests
+- 🔭 I’m currently working on developing a social networking application using React Native and TypeScript.
+- 🌱 I’m currently learning advanced data science techniques and improving my skills in web and cross-platform development.
+- 👯 I’m looking to collaborate on projects related to web development, data science, and open-source contributions.
+- 🤔 I’m looking for help with optimizing performance in React applications and advanced data analysis techniques.
+- 💬 Ask me about Python development, React, and data science.
+- 📫 How to reach me: [Email](mailto:bgt.eliel@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bgteliel/)
+- ⚡ Fun fact: I’ve participated in the creation of short films for competitions, showcasing my creative side outside of tech!
